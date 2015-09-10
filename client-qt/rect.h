@@ -1,11 +1,6 @@
 /*
  * rect.h
  *
- * Skriven av Sofie Tapper
- *
- * 2012-12-12
- *
- * Verktyg för att rita en rektangel.
  */
 #ifndef RECT_H
 #define RECT_H

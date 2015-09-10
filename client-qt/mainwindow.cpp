@@ -1,9 +1,6 @@
 /*
  * mainwindow.cpp
  *
- * 2012-12-12
- *
- * Kod för huvudfönstret.
  */
 
 #include "mainwindow.h"

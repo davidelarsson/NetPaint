@@ -1,11 +1,6 @@
 /*
  * colorwidget.cpp
  *
- * Skriven av David E Larsson
- *
- * 2012-12-12
- *
- * Widget som visar färger.
  */
 #include "colorwidget.h"
 #include <QPainter>

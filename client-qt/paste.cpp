@@ -1,11 +1,6 @@
 /*
  * paste.cpp
  *
- * Skriven av Sofie Tapper och David E Larsson
- *
- * 2012-12-12
- *
- * Klistra in-verktyg.
  */
 #include "paste.h"
 #include <QClipboard>

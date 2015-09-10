@@ -1,11 +1,4 @@
 /*
- * line.cpp
- *
- * Skriven av Roland Stenholm och Sofie Tapper
- *
- * 2012-12-12
- *
- * Linjeverktyg.
  */
 #include "line.h"
 #include <QPainter>

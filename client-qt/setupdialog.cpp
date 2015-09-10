@@ -1,11 +1,6 @@
 /*
  * setupdialog.cpp
  *
- * Skriven av David E Larsson
- *
- * 2012-12-12
- *
- * Initierar programmet
  */
 #include "setupdialog.h"
 #include "ui_setupdialog.h"

@@ -1,11 +1,6 @@
 /*
  * rect.cpp
  *
- * Skriven av Sofie Tapper
- *
- * 2012-12-12
- *
- * Rektangelverktyg.
  */
 #include "rect.h"
 #include <QPainter>

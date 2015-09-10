@@ -1,11 +1,6 @@
 /*
  * mainwindow.h
  *
- * Skriven av David E Larsson, Roland Stenholm, Sofie Tapper
- *
- * 2012-12-12
- *
- * Själva fönstret.
  */
 
 #ifndef MAINWINDOW_H

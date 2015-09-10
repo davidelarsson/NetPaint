@@ -1,11 +1,6 @@
 /*
  * paste.h
  *
- * Skriven av David E Larsson och Sofie Tapper
- *
- * 2012-12-12
- *
- * Klistra-in-verktyg.
  */
 
 #ifndef PASTE_H

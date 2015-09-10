@@ -1,11 +1,5 @@
 /*
  * text.h
- *
- * Skriven av Sofie Tapper
- *
- * 2012-12-12
- *
- * Verktyg för att rita text.
  */
 #ifndef TEXT_H
 #define TEXT_H

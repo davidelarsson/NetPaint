@@ -1,11 +1,6 @@
 /*
  * client.cpp
  *
- * Skriven av Roland Stenholm
- *
- * 2012-12-12
- *
- * Nätverksklient.
  */
 #include "client.h"
 #include <QtEndian>

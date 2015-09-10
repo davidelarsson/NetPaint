@@ -1,11 +1,5 @@
 /*
  * freehand.h
- *
- * Skriven av Sofie Tapper
- *
- * 2012-12-12
- *
- * Rita.
  */
 #ifndef FREEHAND_H
 #define FREEHAND_H

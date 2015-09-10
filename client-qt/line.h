@@ -1,11 +1,4 @@
 /*
- * line.h
- *
- * Skriven av Roland Stenholm och Sofie Tapper
- *
- * 2012-12-12
- *
- * Verktyg för att rita en linje.
  */
 #ifndef LINE_H
 #define LINE_H

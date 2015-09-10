@@ -1,11 +1,6 @@
 /*
  * colorpanel.cpp
  *
- * Skriven av David E Larsson
- *
- * 2012-12-12
- *
- * Färgpalett.
  */
 #include "colorpanel.h"
 #include <QPainter>

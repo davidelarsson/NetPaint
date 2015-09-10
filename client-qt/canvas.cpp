@@ -1,11 +1,6 @@
 /*
  * canvas.cpp
  *
- * Skriven av David E Larsson, Roland Stenholm
- *
- * 2012-12-12
- *
- * Vår rityta.
  */
 
 #include "canvas.h"

@@ -1,11 +1,6 @@
 /*
  * eraser.h
  *
- * Skriven av Ola Neselius
- *
- * 2012-12-12
- *
- * Sudd.
  */
 #ifndef ERASER_H
 #define ERASER_H

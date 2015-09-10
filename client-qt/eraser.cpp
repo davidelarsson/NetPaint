@@ -1,11 +1,6 @@
 /*
  * eraser.cpp
  *
- * Skriven av Ola Neselius
- *
- * 2012-12-12
- *
- * Sudd.
  */
 #include "eraser.h"
 #include <QPainter>

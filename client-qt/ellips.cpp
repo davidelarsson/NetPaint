@@ -1,11 +1,6 @@
 /*
  * ellips.cpp
  *
- * Skriven av Ola Neselius
- *
- * 2012-12-12
- *
- * Verktyg som ritar en ellips.
  */
 #include "ellips.h"
 #include <QPainter>

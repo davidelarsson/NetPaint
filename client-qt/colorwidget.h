@@ -1,11 +1,6 @@
 /*
  * colorwidget.h
  *
- * Skriven av David E Larsson
- *
- * 2012-12-12
- *
- * Representant för en färg i paletten.
  */
 #ifndef COLORWIDGET_H
 #define COLORWIDGET_H

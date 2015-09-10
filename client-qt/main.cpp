@@ -1,11 +1,6 @@
 /*
  * main.cpp
  *
- * Automatiskt genererad
- *
- * 2012-12-12
- *
- * Startar programmet.
  */
 #include <QApplication>
 #include "mainwindow.h"

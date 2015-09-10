@@ -1,11 +1,6 @@
 /*
  * ellips.h
  *
- * Skriven av Ola Neselius
- *
- * 2012-12-12
- *
- * Ritar en ellips.
  */
 #ifndef ELLIPS_H
 #define ELLIPS_H

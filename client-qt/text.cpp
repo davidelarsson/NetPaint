@@ -1,11 +1,6 @@
 /*
  * text.cpp
  *
- * Skriven av Sofie Tapper
- *
- * 2012-12-12
- *
- * Textverktyg.
  */
 #include "text.h"
 #include <QPainter>

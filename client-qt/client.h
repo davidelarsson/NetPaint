@@ -1,11 +1,6 @@
 /*
  * client.h
  *
- * Skriven av Roland Stenholm
- *
- * 2012-12-12
- *
- * Detta är tillståndsabstraktionen då man är klient.
  */
 #ifndef CLIENT_H
 #define CLIENT_H

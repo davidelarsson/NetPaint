@@ -1,11 +1,6 @@
 /*
  * freehand.cpp
  *
- * Skriven av Sofie Tapper
- *
- * 2012-12-12
- *
- * Frihandsritverktyg.
  */
 #include "freehand.h"
 #include <QPainter>
